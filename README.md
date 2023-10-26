@@ -1,2 +1,1 @@
-# Front-End-Projects
-Front-End Projects Using HTML, CSS And JavaScript
+Background Color Changes, Digital Clock, Simple Calculator And Tip Calculation Project Are Projects, gitattributes file is just Asset File of GitHub
